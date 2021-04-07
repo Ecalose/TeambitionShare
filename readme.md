@@ -2,13 +2,14 @@
 挂载Teambition文件(网盘文件列表程序)  
 ## 说明
 已支持Teambition网盘(需申请)与Teambition项目  
+**最近出了点意外,接下来的一段时间不会维护更新本项目**  
 **希望各位修改页面底部信息时保留本项目的github链接！**  
 **如果升级版本时出现报错 请删除 config/app.cfg.php 然后在配置向导中重新生成配置**  
   
 PHP版本要求 ≥ 5.6  
 PHP版本推荐 ≥ 7.0   
-项目挂载演示站点:[tbfile.ouoacg.com](http://tbfile.ouoacg.com)  
-网盘挂载演示站点:[tbfile.ouoacg.com/pan](http://tbfile.ouoacg.com/pan) 访问密码:123456  
+~~项目挂载演示站点:[tbfile.ouoacg.com](http://tbfile.ouoacg.com)~~  
+~~网盘挂载演示站点:[tbfile.ouoacg.com/pan](http://tbfile.ouoacg.com/pan) 访问密码:123456~~  
 ## 一些问题
 1.Cookie有效期  
 目前未遇到cookie失效的情况,猜测只要你不在官网手动退出登录就不会失效  
